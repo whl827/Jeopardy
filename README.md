@@ -1,5 +1,5 @@
 # Client-Server Program
-### (Java, Java Swing, JDBC, and SQL)
+### (Desktop App using Java, Java Swing, JDBC, and SQL)
 &nbsp;
 &nbsp;
 &nbsp;
